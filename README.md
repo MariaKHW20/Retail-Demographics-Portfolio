@@ -6,6 +6,7 @@ An interactive Tableau Story exploring customer demographics, product performanc
 https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographicsPortfolio-Maria?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
+
 Question 1: Who are the customers? What do they look like demographically?
 
 Customer Demographics Dashboard - Age Distribution Visualisation
@@ -18,6 +19,8 @@ SQL Example: Customer Age Distribution (binned)
 
 
 The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. 
+
+
 
 
 
@@ -35,6 +38,8 @@ The goal was to see which product categories generated the most revenue, and wha
 
 
 
+
+
 Question 3: Who are the highest-value customers? What is the typical order worth?
 
 Customer Value Dashboard - Top Spending Customers Visualisation
@@ -45,6 +50,8 @@ SQL Example: Top Spending Customers
 ![Top Spending Customers Visualisation](images/top_customers_by_total_spend_vis.png)
 
 The goal was to identify the highest-value customers by calculating total spend per customer across all orders, highlighting which individuals contribute the most revenue and to understand the distribution of customer value within the dataset. Aggregating spend at customer level created a ranked list of top spending customers, which contributed to the visualisation by showing the highest-value customers and their total revenue contribution, with colour-coded marks indicators to show how spending varied amongst Men & Women. Note: Although the query was designed to return the top 5 spending customers, the visualisation displays 6 due to a tie in total revenue between the 5th and 6th customers. This ensures the chart reflects all customers who share the same top‑spending rank.
+
+
 
 
 
@@ -61,10 +68,12 @@ SQL Example: Monthly Sales Trend
 
 This query aggregated total revenue by month to understand how sales fluctuated across the year. The goal was to identify seasonal patterns, growth periods, and months where revenue saw a significant rise or fall. By grouping sales at monthly level, the analysis produced a clean time-series dataset that could be represented as a line chart. The visualisation showed month-to-month trends clearly, and from here I was able to highlight key insights around missed opportunities.
 
+
+
 Summary:
 
+This project has brought together SQL, Tableau, and analytical reasoning to explore key questions around customer behaviour, revenue drivers, and demographic patterns in UK retail. Across the dashboards, clear trends have emerged, which have included seasonal revenue fluctuations, concentrated customer value, and distinct purchasing differences across demographics and product categories.
 
-This project brought together SQL, Tableau, and analytical reasoning to explore key questions around customer behaviour, revenue drivers, and demographic patterns in UK retail. Across the dashboards, clear trends emerged — including seasonal revenue fluctuations, concentrated customer value, and distinct purchasing differences across product categories and demographics. The work demonstrates my ability to clean and transform data using SQL, build insight‑driven visualisations in Tableau, and communicate findings in a clear, business‑focused way. Further Python analysis will expand this project and deepen the insight into customer behaviour.
 
 
 
