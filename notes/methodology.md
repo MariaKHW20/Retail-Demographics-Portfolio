@@ -21,6 +21,7 @@ The dataset was already clean and required no advanced transformations.
 
 ## 3. SQL Exploration
 Used SQL to explore key patterns and generate summary metrics, including:
+
 • Revenue by product category  
 • Customer demographics  
 • Quantity and pricing patterns  
