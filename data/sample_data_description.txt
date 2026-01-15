@@ -1,1 +1,19 @@
 This file describes the fields in the UK retail dataset used for analysis.
+
+UK Retail Dataset – Field Description
+
+This project uses a simplified UK retail dataset containing customer transactions. The dataset contains 48 retail transactions. The dataset includes the following fields:
+
+• Transaction ID – Unique identifier for each transaction  
+• Date – Date of purchase (YYYY-MM-DD format)  
+• Customer ID – Unique identifier for each customer  
+• Gender – Customer gender (Male/Female)  
+• Age – Customer age in years  
+• Product Category – Category of the purchased product  
+• Quantity – Number of units purchased  
+• Price per Unit – Cost of a single unit of the product  
+• Total Amount – Total revenue for the transaction (Quantity × Price per Unit)
+
+Notes:
+• No advanced cleaning or transformations were required for this dataset.
+• The raw dataset is not included in this repository; this file provides a structural overview only.
