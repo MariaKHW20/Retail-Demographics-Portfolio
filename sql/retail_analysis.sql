@@ -27,7 +27,6 @@ GROUP BY gender;
 
 ------------------------------------------------------------
 -- 4. Top Spending Customers
--- Note: Grouped by customer_id (corrected)
 ------------------------------------------------------------
 SELECT customer_id,
        SUM(quantity * price_per_unit) AS total_spent
