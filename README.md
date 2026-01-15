@@ -19,7 +19,7 @@ SQL Example: Customer Age Distribution (binned)
 ![Age Distribution (Binned) Visualisation](images/age_distribution_binned_vis.png)
 
 
-The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. Customers aged 41–60 generated the highest share of sales at 40%, followed by the 25–40 segment. This suggests that the product range appears to resonate more with mid‑life customers, but younger adults also representing a strong secondary market. 
+The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. Customers aged 41–60 generated the highest share of sales at 40%, followed by the 25–40 segment. This suggests that the product range appears to resonate more with mid‑life customers, but younger adults also represent a strong secondary market. 
 
 
 
@@ -35,7 +35,7 @@ SQL Example: Total Revenue by Product Category
 
 ![Total Revenue by Product Category Visualisation](images/total_revenue_by_product_category_vis.png)
 
-The goal was to see which product categories generated the most revenue, and what was the financial contribution of each one. I also wanted to understand how spending differed between Men & Women, so the query aggregated revenue by both category and gender. This informed the visualisation by producing one bar per category to show total revenue, with colour-coded gender segments to show which customer group purchased the most from each category. 
+The goal was to see which product categories generated the most revenue, and what was the financial contribution of each one. I also wanted to understand how spending differed between Men & Women, so the query aggregated revenue by both category and gender. This informed the visualisation by producing one bar per category to show total revenue, with colour-coded gender segments to show which customer group purchased the most from each category. Women drove the highest revenue within the Beauty category, which reflects strong engagement with cosmetic products and self-care. In contrast, men generated more revenue in Electronics and Clothing, this indicates a preference for tech-led and apparel-based purchases. These patterns highlight clear gender-based category behaviours, suggesting opportunities to tailor strategies across marketing and product positioning to each demographic. 
 
 
 
@@ -68,6 +68,12 @@ SQL Example: Monthly Sales Trend
 
 
 This query aggregated total revenue by month to understand how sales fluctuated across the year. The goal was to identify seasonal patterns, growth periods, and months where revenue saw a significant rise or fall. By grouping sales at monthly level, the analysis produced a clean time-series dataset that could be represented as a line chart. The visualisation showed month-to-month trends clearly, and from here I was able to highlight key insights around missed opportunities.
+
+Results: 
+2023 sales showed strong momentum in Q1 and a recovery in Q4. Mid‑year volatility and the declining trend suggest market saturation, reduced promotional activity in later months, and diminishing customer retention. This signals opportunities for stronger engagement and retention strategies.
+
+Top performance: February (£3,675), May (£2,775), and November (£2,850) drove the bulk of revenue.
+Underperformance: March (£350), July (£330), and September (£50) suggest missed opportunities or operational gaps.
 
 
 
