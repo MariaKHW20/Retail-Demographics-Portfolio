@@ -1,7 +1,7 @@
-This project investigates key business questions around customer behaviour, demographic patterns and revenue drivers within a UK retail dataset. To support the visualisations built in Tableau, I developed a series of SQL queries that aggregated the data to reveal meaningful trends. The examples below highlight how SQL was used to generate insights and how these outputs directly informed the dashboards.
+This project investigates key business questions around customer behaviour, demographic patterns and revenue drivers within a retail dataset. To support the visualisations built in Tableau, I developed a series of SQL queries that aggregated the data to reveal meaningful trends. The examples below highlight how SQL was used to generate insights and how these outputs directly informed the dashboards.
 
 
-An interactive Tableau Story exploring customer demographics, product performance, customer value, and monthly sales trends across a UK retail dataset. 
+An interactive Tableau Story exploring customer demographics, product performance, customer value, and monthly sales trends across a retail dataset. 
 https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographicsPortfolio-Maria?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
@@ -19,7 +19,7 @@ SQL Example: Customer Age Distribution (binned)
 ![Age Distribution (Binned) Visualisation](images/age_distribution_binned_vis.png)
 
 
-The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. 
+The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. Customers aged 41–60 generated the highest share of sales at 40%, followed by the 25–40 segment. This suggests that the product range appears to resonate more with mid‑life customers, but younger adults also representing a strong secondary market. 
 
 
 
