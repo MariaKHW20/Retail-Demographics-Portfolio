@@ -31,6 +31,7 @@ These queries informed the design of the Tableau dashboards.
 
 ## 4. Data Visualisation (Tableau)
 Built an interactive Tableau Story to present:
+
 • Customer demographics  
 • Product category performance  
 • Customer value insights  
@@ -40,6 +41,7 @@ Dashboards were designed with clear titles, consistent colour logic, and concise
 
 ## 5. Future Enhancements
 Python analysis will be added to extend the project, including:
+
 • Exploratory Data Analysis (EDA)  
 • RFM analysis  
 • Forecasting or segmentation  
