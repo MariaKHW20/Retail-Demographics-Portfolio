@@ -6,6 +6,8 @@ https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographi
 
 
 
+
+
 Question 1: Who are the customers? What do they look like demographically?
 
 Customer Demographics Dashboard - Age Distribution Visualisation
