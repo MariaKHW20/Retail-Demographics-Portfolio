@@ -1,7 +1,5 @@
 This file describes the fields in the UK retail dataset used for analysis.
 
-UK Retail Dataset – Field Description
-
 This project uses a simplified UK retail dataset containing customer transactions. The dataset contains 48 retail transactions. The dataset includes the following fields:
 
 • Transaction ID – Unique identifier for each transaction  
