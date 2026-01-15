@@ -26,8 +26,8 @@ https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographi
 
 5. Who are the highest-value customers? What is the typical order worth?
 # Customer Value
-# SQL query used: 
-# -- 4. Top Spending Customers
+# SQL Example: Top Spending Customers
+![Top Spending Customers SQL](images/top_spending_customers)
 
 
 
