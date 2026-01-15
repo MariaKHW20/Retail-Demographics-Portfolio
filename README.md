@@ -1,6 +1,6 @@
 Portfolio project combining Tableau dashboards, SQL queries, and upcoming Python analysis to explore UK retail insights.
 
-This project investigates key business questions around customer behaviour, demopgrahpic patterns and revenue drivers within a UK retail dataset. To support the visualisations built in Tableau, I developed a series of SQL queries that aggregated the data to reveal meaningful trends. The examples below highlight how SQL was used to generate insights and how these outputs directly informed the dashboards.
+This project investigates key business questions around customer behaviour, demographic patterns and revenue drivers within a UK retail dataset. To support the visualisations built in Tableau, I developed a series of SQL queries that aggregated the data to reveal meaningful trends. The examples below highlight how SQL was used to generate insights and how these outputs directly informed the dashboards.
 
 UK Retail Insights – Tableau Portfolio
 
