@@ -9,35 +9,35 @@ https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographi
 
 
 1. Who are the customers? What do they look like demographically?
-# Customer Demographics Dashboard - Age Distribution Visualisation
-# SQL Example: Customer Age Distribution (binned)
+Customer Demographics Dashboard - Age Distribution Visualisation
+SQL Example: Customer Age Distribution (binned)
 # LINK
 
-# How this informed the visualisation - 
+How this informed the visualisation - 
 
 
 
 3. What categories drive revenue? How does this differ by gender?
-# Product Category Performance Dashboard - Top Spending Customers Visualisation
-# SQL Example: Total Revenue by Product Category
+Product Category Performance Dashboard - Top Spending Customers Visualisation
+SQL Example: Total Revenue by Product Category
 # LINK
 
-# How this informed the visualisation
+How this informed the visualisation
 
 
 5. Who are the highest-value customers? What is the typical order worth?
-# Customer Value Dashboard - Total Revenue by Product Category and Gender Visualisation
-# SQL Example: Top Spending Customers
+Customer Value Dashboard - Total Revenue by Product Category and Gender Visualisation
+SQL Example: Top Spending Customers
 # LINK
 
-# How this informed the visualisation
+How this informed the visualisation
 
 
 7. How does revenue fluctuate across the year?
-# Monthly Sales Trend Dashboard - Line Chart Visualisation
-# SQL Example: Monthly Sales Trend
+Monthly Sales Trend Dashboard - Line Chart Visualisation
+SQL Example: Monthly Sales Trend
 # LINK
 
-# How this informed the visualisation
+How this informed the visualisation
 
 
