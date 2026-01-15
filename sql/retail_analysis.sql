@@ -1,1 +1,1 @@
-
+-- SQL queries used for exploring the UK retail dataset
