@@ -47,7 +47,7 @@ Question 4: What seasonal patterns or fluctuations are evident in monthly revenu
 
 SQL Example: Monthly Sales Trend
 
-![Monthly Sales Trend Visualisation](images/monthly_sales_trend_vis.png)
+![Monthly Sales Trend Visualisation](images/monthly_sales_trend_2023_vis.png)
 
 
 This query aggregated total revenue by month to understand how sales fluctuated across the year. The goal was to identify seasonal patterns, growth periods, and months where revenue saw a significant rise or fall. By grouping sales at monthly level, the analysis produced a clean time-series dataset that could be represented as a line chart. The visualisation showed month-to-month trends clearly, and from here I was able to highlight key insights around missed opportunities. I added the best fit line into the chart to highlight the overall trend in sales performance throughout the year. It shows a clear visual summary of the underlying direction, revealing that 2023 sales showed strong momentum in Q1 and a recovery in Q4. Mid‑year volatility and the declining trend suggest market saturation, reduced promotional activity in later months, and diminishing customer retention. This signals opportunities for stronger engagement and retention strategies.
