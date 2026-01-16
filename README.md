@@ -60,13 +60,12 @@ SQL Example: Monthly Sales Trend
 ![Monthly Sales Trend Visualisation](images/monthly_sales_trend_2023_vis.png)
 
 
-The visualisation shows month-to-month trends clearly, and from here key insights around missed opportunities are indentifyable. A best fit line was added into the chart to highlight the overall trend in sales performance throughout the year. It shows a clear visual summary of the underlying direction, revealing that 2023 sales showed strong momentum in Q1 and a recovery in Q4. This query aggregated total revenue by month to understand how sales fluctuated across the year. The intended result was to identify seasonal patterns, growth periods, and months where revenue saw a significant rise or fall. By grouping sales at monthly level, the analysis produced a clean time-series dataset that could be represented as a line chart. 
-
-Results shows mid‑year volatility and the declining trend suggest market saturation, reduced promotional activity in later months, and diminishing customer retention. This signals opportunities for stronger engagement and retention strategies.
-Top performance: February (£3,675), May (£2,775), and November (£2,850) drove the bulk of revenue.
-Underperformance: March (£350), July (£330), and September (£50) suggest missed opportunities or operational gaps.
-
-Huge gaps in months - why? Why were there not enough sales in July? 
+- The visualisation shows month-to-month trends clearly, and from here key insights around missed opportunities are identifiable. A best fit line was added into the chart to highlight the overall trend in sales performance throughout the year. It shows a clear visual summary of the underlying direction, revealing that 2023 sales showed strong momentum in Q1 and a recovery in Q4.
+- This query aggregated total revenue by month to understand how sales fluctuated across the year. The intended result was to identify seasonal patterns, growth periods, and months where revenue saw a significant rise or fall. By grouping sales at monthly level, the analysis produced a clean time-series dataset that could be represented as a line chart.
+- Results show mid‑year volatility and the declining trend suggest market saturation, reduced promotional activity in later months, and diminishing customer retention. Stronger engagement and retention strategies need to be implemented because without them, the business continues to lose revenue during mid‑year periods where customers could be reactivated through targeted campaigns and loyalty initiatives.
+- Top performance: February (£3,675), May (£2,775), and November (£2,850) drove the bulk of revenue.
+- Underperformance: March (£350), July (£330), and September (£50) suggest missed opportunities or operational gaps.
+- The significant drop in July indicates a lack of customer engagement and promotional activity. Reduced traffic and fewer repeat purchases are likely to be caused by a combination of there being a seasonal slowdown and weak retention strategies. 
 
 
 
