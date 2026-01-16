@@ -37,7 +37,24 @@ SQL Example: Customer Spend Summary
 
 ![X](images/)
 
-The intended result was to 
+The intended result was to analyse customer spend distribution across gender, product category and age group by aggregating total spend per customer. The box-and-whisker plot highlights the difference in spend range, median values, and high-value outliers. Overall, this supports in identifying which segments show the widest variation in spending and where high-value customers are concentrated. 
+
+
+
+
+- Beauty shows the widest spend range for female customers, with multiple outliers approaching £2,000.
+- Electronics tends to have a tighter distribution for male customers, suggesting more consistent spend.
+- This indicates that Beauty has more variability and high-value purchases among female customers, while Electronics is more uniform.
+
+- When filtered by Age Group, the plot shows:
+- 41–60 and 60+ age groups contain more frequent high spenders, especially in Clothing and Beauty.
+- Younger groups (Under 25) show lower median spend and fewer outliers.
+- This suggests older customers may have higher disposable income or stronger brand loyalty in certain categories.
+
+- - Females show a wider spread in categories like Beauty and Clothing, with more high-value outliers.
+- Males tend to have a narrower distribution, especially in Electronics, with fewer extreme spenders.
+- Median spend is similar across genders in some categories, but the range and outlier frequency differ significantly.
+
 
 
 
