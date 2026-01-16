@@ -31,8 +31,6 @@ Product Category Performance Dashboard - Total Revenue by Product Category and G
 
 SQL Example: Total Revenue by Product Category
 
-![Total Revenue by Product Category](images/total_revenue_by_product_category.png)
-
 ![Total Revenue by Product Category Visualisation](images/total_revenue_by_product_category_vis.png)
 
 The goal was to see which product categories generated the most revenue, and what was the financial contribution of each one. I also wanted to understand how spending differed between Men and Women, so the query aggregated revenue by both category and gender. This informed the visualisation by producing one bar per category to show total revenue, with colour-coded gender segments to show which customer group purchased the most from each category. Women drove the highest revenue within the Beauty category, which reflects strong engagement with cosmetic products and self-care. In contrast, men generated more revenue in Electronics and Clothing, this indicates a preference for tech-led and apparel-based purchases. These patterns highlight clear gender-based category behaviours, suggesting opportunities to tailor strategies across marketing and product positioning to each demographic. 
@@ -46,7 +44,6 @@ Question 3: Who are the highest-value customers? What is the typical order worth
 Customer Value Dashboard - Top Spending Customers Visualisation
 
 SQL Example: Top Spending Customers
-![Top Spending Customers](images/top_spending_customers.png)
 
 ![Top Spending Customers Visualisation](images/top_customers_by_total_spend_vis.png)
 
@@ -61,8 +58,6 @@ Question 4: How does revenue fluctuate across the year?
 Monthly Sales Trend Dashboard - Line Chart Visualisation
 
 SQL Example: Monthly Sales Trend
-
-![Monthly Sales Trend](images/monthly_sales_trend.png)
 
 ![Monthly Sales Trend Visualisation](images/monthly_sales_trend_vis.png)
 
