@@ -14,8 +14,6 @@ Customer Demographics Dashboard - Age Distribution Visualisation
 
 SQL Example: Customer Age Distribution (binned)
 
-![Age Distribution (Binned)](images/customer_age_distribution_binned.png)
-
 ![Age Distribution (Binned) Visualisation](images/age_distribution_binned_vis.png)
 
 
