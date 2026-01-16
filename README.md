@@ -49,7 +49,7 @@ The goal was to identify the highest-value customers by calculating total spend 
 
 
 
-Question 4: How does revenue fluctuate across the year?
+Question 4: What seasonal patterns or fluctuations are evident in monthly revenue performance?
 
 Monthly Sales Trend Dashboard - Line Chart Visualisation
 
