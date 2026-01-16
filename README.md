@@ -71,8 +71,7 @@ SQL Example: Monthly Sales Trend
 
 Summary:
 
-This project has brought together SQL, Tableau, and analytical reasoning to explore key questions around customer behaviour, revenue drivers, and demographic patterns in UK retail. Across the dashboards, clear trends have emerged, which have included seasonal revenue fluctuations, concentrated customer value, and distinct purchasing differences across demographics and product categories.
-
+This project has brought together SQL, Tableau, and analytical reasoning to explore key questions around customer behaviour, revenue drivers, and demographic patterns within the retail market. Across the dashboards, several clear trends have emerged, including seasonal revenue fluctuations, concentrated customer value, and distinct purchasing differences across demographics and product categories. As the analysis is based solely on publicly available datasets rather than private company data, the insights presented focus on observable patterns and inferred behaviours. Any recommendations are informed by the data, rather than definitive reflections of a specific business’s internal practices. 
 
 
 
