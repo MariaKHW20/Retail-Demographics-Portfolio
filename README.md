@@ -41,7 +41,7 @@ Customer Value Dashboard - Top Spending Customers Visualisation
 
 SQL Example: Top Spending Customers
 
-![Top Spending Customers Visualisation](images/top_customers_by_total_spend_vis.png)
+![Top Spending Customers Visualisation](images/)
 
 The goal was to identify the highest-value customers by calculating total spend per customer across all orders, highlighting which individuals contribute the most revenue and to understand the distribution of customer value within the dataset. Aggregating spend at customer level created a ranked list of top spending customers, which contributed to the visualisation by showing the highest-value customers and their total revenue contribution, with colour-coded marks indicators to show how spending varied amongst Men and Women. Note: Although the query was designed to return the top 5 spending customers, the visualisation displays 6 due to a tie in total revenue between the 5th and 6th customers. This ensures the chart reflects all customers who share the same top‑spending rank. The Top six customers each spent between £1,200 and £2,000. The Gender distribution among these high spenders is mixed, indicating both male and female customers contribute significantly to top-line revenue. Monitoring customer behaviours over time could help identify patterns in seasonal spend and product preference. These insights can also inform strategy around loyalty incentives and personalised offers in order to retain high-value customers and encourage repeat purchasing. 
 
