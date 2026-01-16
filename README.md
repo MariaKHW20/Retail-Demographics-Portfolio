@@ -14,7 +14,7 @@ Customer Demographics Dashboard - Age Distribution Visualisation
 
 SQL Example: Customer Age Distribution (binned)
 
-![Age Distribution (Binned) Visualisation](images/age_distribution_binned_vis.png) (# Need to re-upload graph)
+![Age Distribution (Binned) Visualisation](images/ 
 
 
 The goal was to understand the shape of the customer profile, by grouping individual ages into bins. Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group. Customers aged 41–60 generated the highest share of sales at 40%, followed by the 25–40 segment. This suggests that the product range appears to resonate more with mid‑life customers, but younger adults also represent a strong secondary market. 
