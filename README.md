@@ -37,24 +37,7 @@ SQL Example: Customer Spend Summary
 
 ![Customers Category Spend Breakdown](images/customers_category_spend_breakdown_vis.png.png)
 
-The intended result was to analyse customer spend distribution across gender, product category and age group by aggregating total spend per customer. The box-and-whisker plot highlights the difference in spend range, median values, and high-value outliers. Overall, this supports in identifying which segments show the widest variation in spending and where high-value customers are concentrated. 
-
-
-
-
-- Beauty shows the widest spend range for female customers, with multiple outliers approaching £2,000.
-- Electronics tends to have a tighter distribution for male customers, suggesting more consistent spend.
-- This indicates that Beauty has more variability and high-value purchases among female customers, while Electronics is more uniform.
-
-- When filtered by Age Group, the plot shows:
-- 41–60 and 60+ age groups contain more frequent high spenders, especially in Clothing and Beauty.
-- Younger groups (Under 25) show lower median spend and fewer outliers.
-- This suggests older customers may have higher disposable income or stronger brand loyalty in certain categories.
-
-- - Females show a wider spread in categories like Beauty and Clothing, with more high-value outliers.
-- Males tend to have a narrower distribution, especially in Electronics, with fewer extreme spenders.
-- Median spend is similar across genders in some categories, but the range and outlier frequency differ significantly.
-
+The intended result was to analyse customer spend distribution across gender, product category and age group by aggregating total spend per customer. The box-and-whisker plot highlights the difference in spend range, median values, and high-value outliers. Overall, this helps to identify which segments show the widest variation in spending and where high-value customers are concentrated. The Beauty segment is shown to have the widest spend range for female customers, yet the Electronics segment includes females with an exceptionally high spend - with the upper whisker reaching £2,000. This indicates fewer but more extreme high-value purchases in the category. Among male customers, the Electronics segment shows the widest spend range. It includes more high spenders, and suggests opportunities for targeted premium product marketing. The Clothing segment amongst men suggests there is diverse spending behaviour with some customers making high-value purchases, whereas others are spending more conservatively. When filtering by Age group, the 41-60 and 60+ age groups contain more frequent high-value purchases, particularly in the Beauty and Clothing segments. Male customers that fall within these age groups have a higher median spend at £600, than female customers at £125, indicating a presence of higher spenders within the older age groups. For older women there is a moderate median spend but strong outlier presence in the Beauty segment, suggesting the opportunity for targeting upselling strategies to this customer type. 
 
 
 
