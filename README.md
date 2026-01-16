@@ -33,6 +33,8 @@ The intended result was to see which product categories generated the most reven
 
 Question 3: Which product category has the widest spend range by gender? Do older age groups show more high-value outliers?
 
+SQL Example: Customer Spend Summary
+
 ![X](images/)
 
 The intended result was to 
