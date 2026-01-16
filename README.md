@@ -10,8 +10,6 @@ https://public.tableau.com/views/RetailAnalyticsPortfolio-Maria/RetailDemographi
 
 Question 1: Who are the customers? What do they look like demographically?
 
-Customer Demographics Dashboard - Age Distribution Visualisation
-
 SQL Example: Customer Age Distribution (binned)
 
 ![Age Distribution (Binned) Visualisation](images/age_distribution_binned_visnew1.png)
@@ -23,8 +21,6 @@ The intended result was to understand the shape of the customer profile, by grou
 
 Question 2: What categories drive revenue? How does this differ by gender?
 
-Product Category Performance Dashboard - Total Revenue by Product Category and Gender Visualisation
-
 SQL Example: Total Revenue by Product Category
 
 ![Total Revenue by Product Category Visualisation](images/total_revenue_by_product_category_visnew.png)
@@ -35,23 +31,17 @@ The intended result was to see which product categories generated the most reven
 
 
 
-Question 3: Who are the highest-value customers? What is the typical order worth?
+Question 3: Which product category has the widest spend range by gender? Do older age groups show more high-value outliers?
 
-Customer Value Dashboard - Top Spending Customers Visualisation
+![X](images/)
 
-SQL Example: Top Spending Customers
-
-![Top Spending Customers Visualisation](images/)
-
-The goal was to identify the highest-value customers by calculating total spend per customer across all orders, highlighting which individuals contribute the most revenue and to understand the distribution of customer value within the dataset. Aggregating spend at customer level created a ranked list of top spending customers, which contributed to the visualisation by showing the highest-value customers and their total revenue contribution, with colour-coded marks indicators to show how spending varied amongst Men and Women. Note: Although the query was designed to return the top 5 spending customers, the visualisation displays 6 due to a tie in total revenue between the 5th and 6th customers. This ensures the chart reflects all customers who share the same top‑spending rank. The Top six customers each spent between £1,200 and £2,000. The Gender distribution among these high spenders is mixed, indicating both male and female customers contribute significantly to top-line revenue. Monitoring customer behaviours over time could help identify patterns in seasonal spend and product preference. These insights can also inform strategy around loyalty incentives and personalised offers in order to retain high-value customers and encourage repeat purchasing. 
+The intended result was to 
 
 
 
 
 
 Question 4: What seasonal patterns or fluctuations are evident in monthly revenue performance?
-
-Monthly Sales Trend Dashboard - Line Chart Visualisation
 
 SQL Example: Monthly Sales Trend
 
