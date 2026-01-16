@@ -35,7 +35,7 @@ Question 3: Which product category has the widest spend range by gender? Do olde
 
 SQL Example: Customer Spend Summary
 
-![X](images/)
+![Customers Category Spend Breakdown](images/customers_category_spend_breakdown_vis.png.png)
 
 The intended result was to analyse customer spend distribution across gender, product category and age group by aggregating total spend per customer. The box-and-whisker plot highlights the difference in spend range, median values, and high-value outliers. Overall, this supports in identifying which segments show the widest variation in spending and where high-value customers are concentrated. 
 
