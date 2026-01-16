@@ -27,9 +27,9 @@ Product Category Performance Dashboard - Total Revenue by Product Category and G
 
 SQL Example: Total Revenue by Product Category
 
-![Total Revenue by Product Category Visualisation](images/total_revenue_by_product_category_vis.png)
+![Total Revenue by Product Category Visualisation](images/total_revenue_by_product_category_visnew.png)
 
-The goal was to see which product categories generated the most revenue, and what was the financial contribution of each one. I also wanted to understand how spending differed between Men and Women, so the query aggregated revenue by both category and gender. This informed the visualisation by producing one bar per category to show total revenue, with colour-coded gender segments to show which customer group purchased the most from each category. Women drove the highest revenue within the Beauty category, which reflects strong engagement with cosmetic products and self-care. In contrast, men generated more revenue in Electronics and Clothing, this indicates a preference for tech-led and apparel-based purchases. These patterns highlight clear gender-based category behaviours, suggesting opportunities to tailor strategies across marketing and product positioning to each demographic. 
+The intended result was to see which product categories generated the most revenue, and what was the financial contribution of each one. I also wanted to understand how spending differed between Men and Women, so the query aggregated revenue by both category and gender. This informed the visualisation by producing one bar per category to show total revenue, with colour-coded gender segments to show which customer group purchased the most from each category. Women drove the highest revenue within the Beauty category, which reflects strong engagement with cosmetic products and self-care. In contrast, men generated more revenue in Electronics and Clothing, this indicates a preference for tech-led and apparel-based purchases. These patterns highlight clear gender-based category behaviours, suggesting opportunities to tailor strategies across marketing and product positioning to each demographic. 
 
 
 
