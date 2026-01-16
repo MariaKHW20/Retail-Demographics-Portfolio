@@ -89,3 +89,16 @@ SELECT
 FROM transactions
 GROUP BY age_group
 ORDER BY count DESC;
+
+------------------------------------------------------------
+-- 9. Customer Spend Summary
+-- Purpose: Calculate the total spend per customer so the data can be used to analyse spend distribution.
+------------------------------------------------------------
+SELECT 
+  customer_id,
+  gender,
+  age,
+  product_category,
+  SUM(total_amount) AS total_spend
+FROM transactions
+GROUP BY customer_id, gender, age, product_category;
