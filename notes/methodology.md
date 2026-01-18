@@ -1,6 +1,6 @@
 # Methodology
 
-This project follows a clear, structured analytics workflow to explore UK retail transaction data and present insights through SQL and Tableau.
+This project follows a clear, structured analytics workflow to explore retail customer and sales data and present insights through SQL and Tableau.
 
 ## 1. Data Understanding
 Reviewed the dataset to understand its structure and fields, including:
