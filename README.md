@@ -16,7 +16,7 @@ SQL Example: Customer Age Distribution (binned)
 
 
 - The intended result was to understand the shape of the customer profile, by grouping individual ages into bins. The bar chart shows the numbers of customers within the dataset, and these customers are grouped into four age clusters —Under 25, 25–40, 41–60, and 60+. These cluster groups were chosen to reflect meaningful life stages and purchasing behaviours.The ranges align with common demographic segments used in retail and marketing analysis.
-- Creating these age clusters made it easier to see which age clusters are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group.
+- Creating these age clusters made it easier to see which age groups are over/under-represented. Binning reduced noise and produced a cleaner dataset, allowing the visualisation to display one bar per age group.
 - Customers aged 41–60 generated the highest share of sales at 40%, followed by the 25–40 segment. This suggests that the product range appears to resonate more with middle-aged customers, but younger adults also represent a strong secondary market. The strong representation of middle-aged customers suggest they have greater financial stability and purchasing power, making them a commercially valuable segment. 
 - The younger segments make up for 52.1% of customers, these age groups are typically more responsive to new product launches and social media influencing that make them ideal for target marketing. They also naturally gravitate towards product categories which are trend-driven or lifestyle-oriented, which the product category offering consists of. 
 
