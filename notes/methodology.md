@@ -12,6 +12,7 @@ This step ensured clarity on what questions the dataset could answer.
 
 ## 2. Data Preparation
 Performed basic checks in Excel to confirm:
+
 • Correct data types for dates and numeric fields  
 • No missing values  
 • No duplicate rows  
